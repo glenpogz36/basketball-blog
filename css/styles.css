@@ -1,5 +1,8 @@
 .header{
   color: red;
+  border: 5px;
+  background-color:black;
+  font-size: 50px;
 
 }
 
@@ -12,6 +15,9 @@
   font-size: 24px;
   color: darkblue;
   background-color: pink;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border: 2px solid red;
 }
 
 
@@ -19,6 +25,10 @@
   background-color: green;
   font-size: 24px;
   color : yellow;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left:20%;
+  margin-right:20%;
 }
 
 .about{
@@ -30,7 +40,10 @@
   background-color: skyblue;
   font-size: 24px;
   color: white;
+  border: 20px solid black;
+  margin: 100px;
 }
-.dunk{
-  align-items: center;
+.dunk {
+  margin-left: 33%;
+  margin-right: 33%;
 }
