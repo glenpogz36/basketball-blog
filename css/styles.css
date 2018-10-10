@@ -1,0 +1,36 @@
+.header{
+  color: red;
+
+}
+
+.top{
+  text-align: center;
+}
+
+.body{
+  font-style: oblique;
+  font-size: 24px;
+  color: darkblue;
+  background-color: pink;
+}
+
+
+.body2{
+  background-color: green;
+  font-size: 24px;
+  color : yellow;
+}
+
+.about{
+  font-size: 16px;
+  color : inherit;
+  font-family: sans-serif;
+}
+.body3 {
+  background-color: skyblue;
+  font-size: 24px;
+  color: white;
+}
+.dunk{
+  align-items: center;
+}
